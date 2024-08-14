@@ -1,0 +1,14 @@
+{
+  "Popup": {
+    "description": "Auto imported from components/Popup.vue"
+  },
+  "Portfolio": {
+    "description": "Auto imported from components/Portfolio.vue"
+  },
+  "Skills": {
+    "description": "Auto imported from components/Skills.vue"
+  },
+  "Swiper": {
+    "description": "Auto imported from components/Swiper.vue"
+  }
+}

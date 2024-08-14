@@ -1,0 +1,27 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/portfolio.js": "components/portfolio.js",
+    "components/skills.js": "components/skills.js",
+    "components/swiper.js": "components/swiper.js",
+    "pages/_slug.js": "pages/_slug.js",
+    "pages/about.js": "pages/about.js",
+    "pages/blog.js": "pages/blog.js",
+    "pages/contact.js": "pages/contact.js",
+    "pages/index.js": "pages/index.js",
+    "pages/privacy.js": "pages/privacy.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/portfolio.js": "components/portfolio.js.map",
+    "components/skills.js": "components/skills.js.map",
+    "components/swiper.js": "components/swiper.js.map",
+    "pages/_slug.js": "pages/_slug.js.map",
+    "pages/about.js": "pages/about.js.map",
+    "pages/blog.js": "pages/blog.js.map",
+    "pages/contact.js": "pages/contact.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/privacy.js": "pages/privacy.js.map",
+    "server.js": "server.js.map"
+  }
+}

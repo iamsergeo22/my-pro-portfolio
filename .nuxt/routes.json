@@ -1,0 +1,44 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/home/serge-tassiga/Desktop/Serge/my-pro-portfolio/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_23a9c2b5"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "/home/serge-tassiga/Desktop/Serge/my-pro-portfolio/pages/blog.vue",
+    "chunkName": "pages/blog",
+    "_name": "_dc2fb7ac"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/home/serge-tassiga/Desktop/Serge/my-pro-portfolio/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_3a7e8470"
+  },
+  {
+    "name": "privacy",
+    "path": "/privacy",
+    "component": "/home/serge-tassiga/Desktop/Serge/my-pro-portfolio/pages/privacy.vue",
+    "chunkName": "pages/privacy",
+    "_name": "_39ecc930"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/serge-tassiga/Desktop/Serge/my-pro-portfolio/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_43619d7a"
+  },
+  {
+    "name": "slug",
+    "path": "/:slug",
+    "component": "/home/serge-tassiga/Desktop/Serge/my-pro-portfolio/pages/_slug.vue",
+    "chunkName": "pages/_slug",
+    "_name": "_41aafc32"
+  }
+]
